@@ -403,7 +403,7 @@ npm run dev
 The application will be available at:
 
 ```text
-http://localhost:5173
+https://dilkhushjobtracker.netlify.app/
 ```
 
 ---
