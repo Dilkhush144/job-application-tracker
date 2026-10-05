@@ -5,7 +5,7 @@ function Navbar() {
 
   return (
     <header className="navbar">
-      <h2 className="logo">🎯 Job Tracker</h2>
+      <h2 className="logo">🎯 Job Application Tracker</h2>
 
       <nav className="nav-links">
         <Link

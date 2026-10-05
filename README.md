@@ -1,4 +1,4 @@
-# 💼 Job Tracker Dashboard
+# 💼 Job Application Tracker
 
 <p align="center">
   <strong>Track applications • Monitor progress • Analyze your job search</strong>
@@ -379,7 +379,7 @@ This project demonstrates practical frontend development concepts including:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Thejasiva/job-tracker.git
+git clone https://github.com/Dilkhush144/job-application-tracker.git
 ```
 
 ### 2. Navigate to the Project
