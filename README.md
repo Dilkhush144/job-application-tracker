@@ -238,7 +238,7 @@ Includes:
 | **CSS** | Responsive UI styling |
 | **Local Storage API** | Client-side data persistence |
 | **Git & GitHub** | Version control and source code management |
-| **Vercel** | Production deployment |
+| **Netlify** | Production deployment |
 
 ---
 
@@ -275,7 +275,7 @@ The application follows a modular React component architecture.
 ## 📁 Project Structure
 
 ```text
-job-tracker/
+job-application-tracker/
 │
 ├── public/
 │   └── _redirects
@@ -369,7 +369,7 @@ This project demonstrates practical frontend development concepts including:
 
 - Production build using Vite
 - Git-based deployment
-- Vercel hosting
+-Netlify  hosting
 - SPA routing configuration
 
 ---
@@ -385,7 +385,7 @@ git clone https://github.com/Dilkhush144/job-application-tracker.git
 ### 2. Navigate to the Project
 
 ```bash
-cd job-tracker
+cd job-application-tracker
 ```
 
 ### 3. Install Dependencies
@@ -443,7 +443,7 @@ Git Repository
        ↓
 GitHub
        ↓
-Vercel
+Netlify
        ↓
 Production Deployment
 ```
@@ -622,7 +622,7 @@ screenshots/analytics.png
 | React Router | ✅ |
 | Responsive UI | ✅ |
 | Production Build | ✅ |
-| Vercel Deployment | ✅ |
+|Netlify  Deployment | ✅ |
 | Backend API | 🔮 Future Enhancement |
 | Authentication | 🔮 Future Enhancement |
 | Cloud Database | 🔮 Future Enhancement |
@@ -650,22 +650,21 @@ React + Vite
      │
      ├── SPA Routing
      │
-     └── Vercel Deployment
+     └── Netlify Deployment
 ```
 
 ---
 
 ## 👩‍💻 Author
 
-### Thejasiva
+### Dilkhush Raj
 
-MCA student and aspiring software developer focused on building practical applications using Python, React, AI/NLP, and modern web technologies.
+B.Tech ECE student at NIT Manipur, interested in software development, data structures, and building practical web applications.
 
 ### 🔗 Connect
 
-- 💻 GitHub: [Thejasiva](https://github.com/Thejasiva)
-- 💼 LinkedIn: [Thejeshvini Sivakumar](https://www.linkedin.com/in/thejeshvini-sivakumar-905930232/)
-- 🌐 Portfolio: [Personal Portfolio](https://thejasiva.github.io/Portfolio/)
+- 💻 GitHub: [Dilkhush Raj](https://github.com/Dilkhush144)
+
 
 ---
 
