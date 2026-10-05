@@ -12,7 +12,7 @@
 
 ## 🌐 Live Demo
 
-🚀 **[Launch Job Tracker Dashboard](YOUR_VERCEL_URL)**
+🚀 **[Launch Job Application Tracker Dashboard](https://dilkhushjobtracker.netlify.app/)**
 
 > A fully deployed client-side application for managing and analyzing job applications directly from the browser.
 
@@ -22,7 +22,7 @@
 
 Managing multiple job applications across different companies can quickly become difficult. Important details such as application dates, current status, deadlines, interview stages, and job links can easily get scattered across notes and spreadsheets.
 
-**Job Tracker Dashboard** provides a centralized workspace where users can record, manage, search, filter, and analyze their job applications.
+**Job Application Tracker Dashboard** provides a centralized workspace where users can record, manage, search, filter, and analyze their job applications.
 
 The application is built as a **client-side Single Page Application (SPA)** using **React and Vite**, with application data persisted using the browser's **Local Storage**.
 
@@ -166,7 +166,7 @@ When the application loads, stored data is retrieved from Local Storage and rest
 
 ```text
                     ┌─────────────────────┐
-                    │   Job Tracker       │
+                    │  Job App Tracker    │
                     │     Dashboard       │
                     └──────────┬──────────┘
                                │
@@ -500,7 +500,7 @@ The goal is to keep application management and analytics accessible regardless o
 
 ## 🎯 Use Cases
 
-The Job Tracker Dashboard can be used by:
+The Job Application Tracker Dashboard can be used by:
 
 - Students applying for internships
 - Fresh graduates searching for their first role
