@@ -432,7 +432,7 @@ npm run preview
 
 ## 🚀 Deployment
 
-The application is deployed using **Vercel**.
+The application is deployed using **Netlify**.
 
 ### Deployment Workflow
 
@@ -555,7 +555,7 @@ Building this project helped strengthen my understanding of:
 - Creating dashboard-style interfaces
 - Implementing client-side routing
 - Preparing React applications for production
-- Deploying frontend applications using Vercel
+- Deploying frontend applications using Netlify
 - Managing source code with Git and GitHub
 
 ---
